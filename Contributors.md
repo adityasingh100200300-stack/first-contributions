@@ -28,7 +28,7 @@
 - [Hein Htet Ko](https://github.com/HeinHtetKo99)
 - [M K]
 - [DraeK] (https://github.com/keerthansamudrala/) : just right, Got right
-- Aditya Singh(https://github.com/adityasingh100200300-stack):My first contributions and i am excited to do more contribution in future.
+- Aditya Singh(https://github.com/adityasingh100200300-stack):My first contribution and i am excited to do more contributions in future.
 - [Michiel de Boer](https://github.com/mitch-d-b)
 - [Gioomoraes] (https://github.com/Gioomoraes) : First open source 
 - [Gregory Temwa] (https://github.com/youneedgreg) : First open source 
